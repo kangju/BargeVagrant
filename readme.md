@@ -10,4 +10,4 @@ Bargeにdocker-composeを自動インストールし、Vagrantフォルダを作
 
 ## Licence
 
-[MIT License](https://github.dev/kangju/BargeVagrant/blob/master/LICENSE.txt)
+[MIT License](https://github.com/kangju/BargeVagrant/blob/master/LICENSE.txt)
